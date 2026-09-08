@@ -13,7 +13,7 @@ This project analyzes the underlying structure of the Wine dataset using five cl
 | `EDA.ipynb` | Exploratory data analysis of the Wine dataset |
 | `ClusteringModels.ipynb` | Clustering model development, tuning, and comparison |
 | `results/figures/` | Generated analysis visualizations |
-| `Lab4.docx` | Project/lab documentation |
+| `RegressionModelsAnalysis.pdf` | Project/lab takeaways |
 | `requirements.txt` | Python dependencies |
 
 ## Dataset
