@@ -12,7 +12,7 @@ Compares Linear Regression, Polynomial Regression, Elastic Net, Random Forest, a
 
 Compares K-Means, K-Medoids, Agglomerative Clustering, Gaussian Mixture, and DBSCAN models using the Wine dataset, with PCA-based analysis, cluster evaluation, stability testing, and feature analysis.
 
-
+## Index
 - [Overview](#machine-learning-model-analysis)
 - [Regression Model Analysis](#regression-model-analysis)
   - [Project README](./regression-model-analysis/README.md)
